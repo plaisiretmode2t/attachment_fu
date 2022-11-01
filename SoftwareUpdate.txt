@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add missing single-line docstrings (#8362)

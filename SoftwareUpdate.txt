@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)

@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Use pathlib in DOTA ops (#7552)

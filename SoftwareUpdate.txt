@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Resize angle, count, and stage on keypoint number change (#7598)

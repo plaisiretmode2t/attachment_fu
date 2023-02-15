@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)

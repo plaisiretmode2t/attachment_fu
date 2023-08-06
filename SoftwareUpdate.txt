@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update Docs Home and Neural Magic pages (#7243)

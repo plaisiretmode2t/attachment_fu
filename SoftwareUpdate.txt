@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)

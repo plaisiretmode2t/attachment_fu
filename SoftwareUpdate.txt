@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fixed RTDETR GFLOPs bug (#7309)

@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)

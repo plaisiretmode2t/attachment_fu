@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add docstrings to new HUB functions (#7576)

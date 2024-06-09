@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Updating a typo on paddlepaddle.md (#9108)
